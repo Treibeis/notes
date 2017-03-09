@@ -1,5 +1,9 @@
 ## Black Hole Thermodynamics
+<<<<<<< HEAD
 _edited by Liu Boyuan_
+=======
+
+>>>>>>> e747db4fdf3c636b0e756325b15299e0fe176d7c
 ### The Reissner-Nordstrom BH
 $$ ds^{2}=-f(r)dt^{2}+\frac{1}{f(r)}dr^{2}+r^{2}d\Omega^{2} $$
 $$f(r)=1-\frac{2M}{r}+\frac{Q^{2}}{r^{2}}=\frac{1}{r^{2}}(r-r_{+})(r-r_{-}),\quad r_{\pm}=M\pm\sqrt{M^{2}-Q^{2}}, \quad A_{\mu}dx^{\mu}=-\frac{Q}{r}dt$$
@@ -32,8 +36,12 @@ $$TdS=dM-\Phi dQ,\quad T\equiv\frac{r_{+}-r_{-}}{4\pi r_{+}^{2}}, \quad \Phi=\fr
 
 `Higher curvature corrections in the BH entrophy may lead to violation of the 2nd law of thermodynamics.`
 
+<<<<<<< HEAD
 - Black holes must have enormous of states (see Chp 9 of Carroll's):  
 $$ S_{BH}\sim 10^{90}\left(\frac{M}{10^{6}M_{\odot}}\right),\quad S_{M}\sim 10^{88}\quad\text{for all matter other than BHs within one Hubble radius, i,e, number of relativistic particles} $$
+=======
+- Black holes must have enormous of states.  
+>>>>>>> e747db4fdf3c636b0e756325b15299e0fe176d7c
 
 > Black hole entropy is a rare and important gift from nature: an infrared constraint on the ultraviolet completion, that we should take very seriously in trying to quantize gravity.
 
@@ -65,7 +73,11 @@ $$(t,\phi)\sim(t+i\beta,\phi-i\beta\Omega)$$
  - (b) expansion with $r=r_{+}(1+\epsilon^{2})$ at $\theta=\pi/2$:
 $$ds^{2}=\frac{4r_{+}^{3}}{r_{+}-r_{-}}d\epsilon^{2}+\frac{1}{r_{+}^{2}}\left(adt-(r_{+}^{2}+a^{2})d\phi\right)^{2}\\
 +\left[-\left(1-\frac{r_{-}}{r_{+}}\right)(dt-ad\phi)^{2}-\frac{2}{r_{+}^{2}}\left(adt-(r_{+}^{2}+a^{2})d\phi\right)^{2}-4(adt-(r_{+}^{2}+a^{2})d\phi)+2r_{+}^{2}d\theta^{2})\right]\epsilon^{2}+\cdots$$
+<<<<<<< HEAD
  - (c) set $adt-(r_{+}^{2}+a^{2})d\phi=0$, i.e. $\tilde{\phi}=(r_{+}^{2}+a^{2})\phi-at=const.$, and $d\theta=0$, we have  
+=======
+ - (c) set $adt-(r_{+}^{2}+a^{2})d\phi=0$, i.e. $\tilde{\phi}=(r_{+}^{2}+a^{2})\phi-at=const.$, we have  
+>>>>>>> e747db4fdf3c636b0e756325b15299e0fe176d7c
 $$d\tilde{s}^{2}=d\epsilon^{2}-\frac{1}{4}\left(\frac{r_{+}-r_{-}}{r_{+}^{2}+a^{2}}\right)^{2}\epsilon^{2}dt^{2} $$
 from which we know that $\eta=\frac{1}{2}\left(\frac{r_{+}-r_{-}}{r_{+}^{2}+a^{2}}\right)t$, together with $r_{+}^{2}+a^{2}=2Mr_{+}$, we have 
 $$ \frac{1}{2}\left(\frac{r_{+}-r_{-}}{r_{+}^{2}+a^{2}}\right) \beta=2\pi, \quad \beta=8\pi M\frac{r_{+}}{r_{+}-r_{-}},\quad \Omega=\frac{a}{r_{+}^{2}+a^{2}}=\frac{a}{2Mr_{+}}$$
@@ -89,9 +101,14 @@ which is consistent with the entropy formula $S=2\pi Mr_{+}$
 - greybody factor (the absorption cross-section of a mode hitting the black hole): absorption and re-emission of radiation by the intervening geometry, 
 > If you stand far from a black hole, you will actually not quite see a blackbody.
 
+<<<<<<< HEAD
 (from Chp 9 of Carroll's)
 > - Hawking vacuum: regular on both the past and future event horizons, flux from the BH towards the future null infinity is the thermal radiation, but there is also an equal flux coming from the past null infinity towrds the BH 
  - Unruh vacuum:  singular on the past event horizon (no flux coming in)
  - Boulware vacuum: singular on both the past and future event horizons
 
 
+=======
+
+**?** difference between Unruh radiation and Hawking radiation
+>>>>>>> e747db4fdf3c636b0e756325b15299e0fe176d7c

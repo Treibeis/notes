@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 #The problem of quantum gravity
 _edited by Liu Boyuan_
+=======
+>>>>>>> e747db4fdf3c636b0e756325b15299e0fe176d7c
 ### Rulues
 - The classical action is not renormalizable
 - Gravity as a low-energy effective theory

@@ -1,6 +1,7 @@
 # Understanding AGN Accretion Disks based on 3D Global Radiation MHD Simulations with Realistic Opacity
 ## Yanfei Jiang
 
+<<<<<<< HEAD
 ### Basics
 - Super-Eddington
 Optically thick, geometric thick
@@ -45,3 +46,5 @@ $ Q^{+}\propto\frac{R^{2}_{r}}{\Sigma} $, while $ Q^{-}\propto\frac{P_{r}}{\Sigm
 - other methods? 
 Not suitable for high-precison MHD simulation
 
+=======
+>>>>>>> e747db4fdf3c636b0e756325b15299e0fe176d7c
