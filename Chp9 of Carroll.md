@@ -1,6 +1,6 @@
 # Chapter 9 of Sean Carroll's spacetime and geometry
 _edited by Liu Boyuan_
-> Our ability to find positive- and negative-frequency solutions (as the coefficients of annihilation and creation operators) can be traced to the existence of a timelike Killing vector $\partial_{t}$ in MInkowski spacetime, while the invariance of Fock space under changes of basis can be traced to the fact that all such timelike Killing vectors are related by Lorentz transformations.
+> Our ability to find positive- and negative-frequency solutions (as the coefficients of annihilation and creation operators) can be traced to the existence of a timelike Killing vector $\partial_{t}$ in Minkowski spacetime, while the invariance of Fock space under changes of basis can be traced to the fact that all such timelike Killing vectors are related by Lorentz transformations.
 
 ### QFT in curverd spacetime
 $$\mathcal{L}=\sqrt{-g}\left(-\frac{1}{2}g^{\mu\nu}\nabla_{\mu}\phi\nabla_{\nu}\phi-\frac{1}{2}m^{2}\phi^{2}-\xi R\phi^{2}\right)$$
